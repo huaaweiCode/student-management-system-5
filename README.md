@@ -1,10 +1,6 @@
 # 学生管理系统
 
-## 获取方式
 
-扫描下方，回复关键词  ： **学生5**，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -32,11 +28,4 @@
 
 ![班级信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208121557947.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ： **学生5**，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
